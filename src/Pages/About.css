@@ -1,0 +1,45 @@
+body{
+    background-color: #1a202c;
+}
+.skills-container {
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+  background-color: #1a202c;
+  color: beige;
+}
+
+.skill-bar {
+  margin-bottom: 20px;
+}
+
+.skill-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 1.2rem;
+  margin-bottom: 6px;
+}
+
+.progress-wrapper {
+  background-color: #eee;
+  border-radius: 8px;
+  height: 20px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  background: linear-gradient(to right, #00c6ff, #0072ff);
+  height: 100%;
+  width: 0;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 8px;
+  transition: width 1.5s ease;
+}
+
+.progress-text {
+  font-size: 0.9rem;
+}
