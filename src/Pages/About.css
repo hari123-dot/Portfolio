@@ -1,5 +1,6 @@
 body{
     background-color: #1a202c;
+     font-style: italic;
 }
 .skills-container {
   padding: 20px;
@@ -7,10 +8,12 @@ body{
   margin: auto;
   background-color: #1a202c;
   color: beige;
+   font-style: italic;
 }
 
 .skill-bar {
   margin-bottom: 20px;
+   font-style: italic;
 }
 
 .skill-header {
@@ -19,6 +22,7 @@ body{
   gap: 10px;
   font-size: 1.2rem;
   margin-bottom: 6px;
+   font-style: italic;
 }
 
 .progress-wrapper {
@@ -26,6 +30,7 @@ body{
   border-radius: 8px;
   height: 20px;
   overflow: hidden;
+   font-style: italic;
 }
 
 .progress-fill {
@@ -38,8 +43,10 @@ body{
   justify-content: flex-end;
   padding-right: 8px;
   transition: width 1.5s ease;
+   font-style: italic;
 }
 
 .progress-text {
   font-size: 0.9rem;
+   font-style: italic;
 }
