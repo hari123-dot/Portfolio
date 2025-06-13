@@ -12,7 +12,7 @@ const Contact = () => {
         <div className="Contact">
           <p> Stark Industries of Computers</p>
             <p>RT-Nagar bangalure-560032</p>  
-            <p> Phone No :3384843291</p>
+            <p> Phone No :9972178430</p>
             <p>srihariks1602@gmail.com</p>
             <EmailLink email="srihariks1602@gmail.com" subject="Hello!" body="How are you?"/>
            

@@ -103,3 +103,44 @@ h2 {
   }
 }
 
+
+h1 {
+  font-size: 2rem;
+  color: beige;
+  margin-bottom: 30px;
+   font-style: italic;
+}
+
+h1 {
+    font-size: 1.8rem;
+     font-style: italic;
+  }
+
+  p {
+  font-size: 2rem;
+  color: beige;
+  margin-bottom: 30px;
+   font-style: italic;
+}
+
+p {
+    font-size: 1.8rem;
+     font-style: italic;
+  }
+
+  h3 {
+  font-size: 2rem;
+  color: beige;
+  margin-bottom: 30px;
+   font-style: italic;
+}
+
+h3 {
+    font-size: 1.8rem;
+     font-style: italic;
+  }
+
+
+
+
+

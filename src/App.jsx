@@ -6,7 +6,7 @@ import Home from "./Pages/Home";
 import About from './Pages/About';
 import Project from './Pages/Project';
 import Contact from './Pages/Contact';
-import logo from "./Images/logo512.png";
+import logo from "./Images/bmw_logo_PNG19714.png";
 
 
 function App() {

@@ -2,10 +2,10 @@ import React from "react";
 import "./About.css"; // we'll add styles here
 
 const skills = [
-  { name: "HTML", icon: "🌐", level: 90 },
-  { name: "CSS", icon: "🎨", level: 85 },
-  { name: "JavaScript", icon: "⚙️", level: 80 },
-  { name: "React", icon: "⚛️", level: 75 },
+  { name: "HTML", icon: "🌐", level: 98 },
+  { name: "CSS", icon: "🎨", level: 95 },
+  { name: "JavaScript", icon: "⚙️", level: 90 },
+  { name: "React", icon: "⚛️", level: 85 },
 ];
 
 function Skills() {
