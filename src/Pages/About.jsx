@@ -12,6 +12,7 @@ function Skills() {
   return (
     <div className="skills-container">
       <h2>My Skills</h2>
+      
       {skills.map((e) => (
         <div key={e.name} className="skill-bar">
           <div className="skill-header">
